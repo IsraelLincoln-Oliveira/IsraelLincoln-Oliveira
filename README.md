@@ -5,7 +5,7 @@
 - Preparando-se para o mercado de tecnologia
 
 # Como me encontrar:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/israel-lincoln-de-oliveira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/israel-lincoln-de-oliveira)
 
 # Linguagens que estudo:
 <div style="display: inline_block"><br>
